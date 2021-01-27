@@ -3,4 +3,6 @@ Vote filter for binary image denoising. This filter can preserve the detail and 
 
 ## Result
 
+![alt text](Input.png "Input")
+
 
